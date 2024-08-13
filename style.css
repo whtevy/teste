@@ -1,0 +1,21 @@
+h1 {
+    color:pink;
+    text-align: center;
+}
+h2 {
+    color:brown;
+}
+
+#interesses {
+    background-color: pink;
+    text-align:start ;
+    text-shadow: 2cm;
+    text-decoration:underline;
+}
+p {
+    color:rgb(255, 0, 166)
+}
+ul {
+    color:rgb(247, 0, 252);
+    
+}
